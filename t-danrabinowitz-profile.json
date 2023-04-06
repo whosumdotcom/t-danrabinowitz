@@ -1,0 +1,42 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T13:03:22Z",
+  "IdClaims": [
+    {
+      "Claim": "t:danrabinowitz"
+    },
+    {
+      "Claim": "gh:danrabinowitz"
+    },
+    {
+      "Claim": "mdon:@danrabinowitz@mastodon.social"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "fd69c64956ee1cbeaf1d2ec1",
+    "Timestamp": "2023-04-06T13:05:55Z",
+    "Signature": "07aa42fe7ac82a413807964229c9be38a22d145d8117d53ed77f662189e1ef7e56c3eea621344bc55d26c61241395dceaa64a869ac050046699b62625298db3a4794b34aa5e911906dd2fa9eab77b2dc4bf006bce03279a6197850645c0289c16a73a8f159f72a5ac868f2b2c6cd22401baa0e552f2f41d9fc36d022bccf7608fed72d9d00b990b7545a3d310efc2c95710ec8a8c5d6be2f852631de00189943fa946211da0a5cb6ced8986983f129809bde812895e497bf79702e408feb9801a426c834ded8cf0294985e0edbd5b12d1fc2272e75b7dd49a11f4df82493f0ab32d9bcd0aaac4e7f332721ff11a8c23095f506f7556f31adf3b765b2cbf6cd63"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "bbb9e65cb4d048232b1f56fd4c6153046ee63b26306a987f3cfdd83fbd9bd592",
+  "ContentToHash": "v1|gh:danrabinowitz,mdon:@danrabinowitz@mastodon.social,med:no-account,pat:no-account,post:no-account,spout:no-account,ss:no-account,t:danrabinowitz|2023-04-06T13:03:22Z"
+}
